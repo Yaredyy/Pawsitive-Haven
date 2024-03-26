@@ -52,7 +52,9 @@ We are committed to making our website accessible to all users by incorporating 
 ## Sketches:
 
 ### Sketch 1
-![image](https://github.com/Yaredyy/Pawsitive-Haven/assets/79294242/36d0e0c6-8c32-443d-9075-f1cb60980355)
+![image](https://github.com/Yaredyy/Pawsitive-Haven/assets/79294242/ace02501-40d3-4203-96b2-024617f69ecc)
+
+
 
 ### Sketch 2
 ![image](https://github.com/Yaredyy/Pawsitive-Haven/assets/79294242/e33c5680-f841-414b-961d-f8bb1dde2773)
