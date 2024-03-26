@@ -5,7 +5,7 @@
 ### Team Members:
 
 - Michaela
-- Vihnn
+- Vinh
 - Yared
 
 ## Purpose and Goal:
