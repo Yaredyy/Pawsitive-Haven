@@ -25,12 +25,20 @@ html{
 }
 
 
+#content{
+    background-color: rgb(152, 251, 152);
+}
 
 
+
+.highlight {
+    background-color: rgba(255, 187, 51, 0.2);
+    /* Semi-transparent background for highlighted text */
+}
 
 /* Style rules for body and images */
 body {
-    background-color: #000;
+    background-color: rgb(64, 164, 223);
 }
 
 img,
@@ -42,6 +50,11 @@ video {
 /* Style rule for box sizing applies to all elements */
 * {
     box-sizing: border-box;
+}
+
+.others{
+    padding-bottom: 150px;
+    width:100vw;
 }
 
 .others img{
@@ -78,7 +91,7 @@ iframe{
 /* Style rule for header */
 header {
     top: 0;
-    background-color: #000;
+    background-color: rgb(64, 164, 223);
     height: auto;
 }
 
@@ -264,6 +277,11 @@ form #submit {
     background-color: #b3b3b3;
     font-size: 1em;
     border-radius: 10px;
+}
+
+footer{
+    background-color: rgb(64, 164, 223);
+    color: #fff;
 }
 
 /* Style rules for footer content */
@@ -556,7 +574,7 @@ print {
     }
 
     nav li a:hover {
-        color: #000;
+        color: rgb(152, 251, 152);
         background-color: #fff;
         transform: scale(1.3);
     }
